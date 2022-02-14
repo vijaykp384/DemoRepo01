@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50" started-at="2022-02-09T03:47:44Z" finished-at="2022-02-09T03:47:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50" started-at="2022-02-09T03:47:44Z" finished-at="2022-02-09T03:47:44Z">
+      <class name="testc.TestAnot">
+        <test-method status="PASS" signature="Te1()[pri:0, instance:testc.TestAnot@15eef3d]" name="Te1" is-config="true" duration-ms="11" started-at="2022-02-09T09:17:44Z" finished-at="2022-02-09T09:17:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Te1 -->
+        <test-method status="PASS" signature="fun()[pri:0, instance:testc.TestAnot@15eef3d]" name="fun" duration-ms="6" started-at="2022-02-09T09:17:44Z" finished-at="2022-02-09T09:17:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun -->
+        <test-method status="PASS" signature="funa()[pri:0, instance:testc.TestAnot@15eef3d]" name="funa" duration-ms="2" started-at="2022-02-09T09:17:44Z" finished-at="2022-02-09T09:17:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- funa -->
+      </class> <!-- testc.TestAnot -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
